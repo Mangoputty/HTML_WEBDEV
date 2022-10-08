@@ -1,8 +1,12 @@
 body{
     background-color: seagreen;
-    text-decoration: wavy;
-    text-align: center;
 }
 h1{
     color: antiquewhite;
+    text-decoration: wavy;
+    text-align: center;
+}
+
+#bad_comic:hover{
+    opacity: 0.11;
 }
